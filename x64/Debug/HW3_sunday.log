@@ -1,0 +1,6 @@
+﻿  Q5.c
+C:\Users\User\source\repos\HW3_sunday\HW3_sunday\Q5.c(13,3): warning C4013: 'exit' undefined; assuming extern returning int
+  Q6.c
+C:\Users\User\source\repos\HW3_sunday\HW3_sunday\Q6.c(30,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  HW3_sunday.vcxproj -> C:\Users\User\source\repos\HW3_sunday\x64\Debug\HW3_sunday.exe
